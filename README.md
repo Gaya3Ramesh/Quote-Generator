@@ -27,7 +27,7 @@ You can view the live demo of the project [Quote-Generator](https://gaya3ramesh.
 
 1. Open the Quote Generator in your web browser.
 2. On the webpage, you will see an initial quote displayed.
-3. Click the "Generate Quote" button for a new random quote.
+3. Click the "New Quote" button for a new random quote.
 4. Enjoy reading and sharing inspirational quotes!
 
 ## Installation
